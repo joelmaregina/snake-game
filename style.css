@@ -1,0 +1,22 @@
+*{
+    margin:5px;
+    padding-top: 3px;
+}
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-style:oblique;
+    font-size: xx-large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:white;
+    color: deeppink;
+    background-color: pink;
+} 
+
+#snake {
+    border: MediumVioletRed 10px dashed;
+}
